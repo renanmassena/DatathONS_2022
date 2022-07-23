@@ -4,13 +4,6 @@
 <img src="https://github.com/renanmassena/DatathONS_2022/blob/main/docs/publication_of_results.jpeg" width="500px" />
 </div>
 
-<div align="center">
-<img src="https://github.com/renanmassena/DatathONS_2022/blob/main/docs/publication_of_results.jpeg" width="500px" />
-</div>
-
-
-![publication_of_results](https://github.com/renanmassena/DatathONS_2022/blob/main/docs/publication_of_results.jpeg)
-
 ## Analysis of the Load X Temperature relationship in the State of São Paulo
 
 This repository presents the files generated in the ONS Data Science Hackathon.
