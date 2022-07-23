@@ -1,5 +1,7 @@
 # DatathONS 2022
 
+![publication_of_results](https://github.com/renanmassena/DatathONS_2022/blob/main/docs/publication_of_results.jpeg)
+
 ## Analysis of the Load X Temperature relationship in the State of São Paulo
 
 This repository presents the files generated in the ONS Data Science Hackathon.
@@ -33,6 +35,3 @@ https://github.com/renanmassena
 https://github.com/ThiagoSViana
 
 https://github.com/ViniciusBrSc
-
-
-![publication_of_results](https://github.com/renanmassena/DatathONS_2022/blob/main/docs/publication_of_results.jpeg)
