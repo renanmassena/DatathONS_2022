@@ -33,3 +33,6 @@ https://github.com/renanmassena
 https://github.com/ThiagoSViana
 
 https://github.com/ViniciusBrSc
+
+
+![publication_of_results](https://github.com/renanmassena/DatathONS_2022/blob/main/docs/publication_of_results.jpeg)
