@@ -1,6 +1,10 @@
 # DatathONS 2022
 
 <div align="center">
+<img src= "https://github.com/renanmassena/DatathONS_2022/blob/main/docs/Certificado%20de%20Premia%C3%A7%C3%A3o%20-%20Renan%20Massena.jpeg" width="500px" />
+</div>
+
+<div align="center">
 <img src="https://github.com/renanmassena/DatathONS_2022/blob/main/docs/publication_of_results.jpeg" width="500px" />
 </div>
 
